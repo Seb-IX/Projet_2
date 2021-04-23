@@ -28,6 +28,10 @@ Exit current environment : <br>
 To remove environment : <br>
 `conda env remove --name projet2` <br>
 
+To create environement file (export current environement to file)  : <br>
+`conda env export > environment.yaml` <br>
+
+
 ## Add environment to Jyputer notebook :
 
 This tells jupyter to take the current environment("projet2")<br>
