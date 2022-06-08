@@ -5,7 +5,7 @@
 
 # Notebook viewer 
 
-https://nbviewer.org/github/Seb-IX/Projet_2/blob/main/Solution/P02_01_notebook.ipynb
+<a href="https://nbviewer.org/github/Seb-IX/Projet_2/blob/main/Solution/P02_01_notebook.ipynb" target="_blank">Open Notebook_viewer</a>
 
 # Data :
 
