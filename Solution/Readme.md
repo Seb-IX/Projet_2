@@ -3,6 +3,10 @@
 - pip
 - conda
 
+# Notebook viewer 
+
+https://nbviewer.org/github/Seb-IX/Projet_2/blob/main/Solution/P02_01_notebook.ipynb
+
 # Data :
 
 Data use on this project is on "../Ressource/" or <a href = https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/AI+Engineer/Project+2+Participez+%C3%A0+un+concours+sur+la+Smart+City/p2-arbres-fr.csv>on download here</a>.
