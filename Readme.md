@@ -1,13 +1,12 @@
-# Projet configuration
-<ul>
-<li>/Enoncé/ :<br>
-	This directory contains statement for project in french</li>
-<li>/Présentation/ :<br>
-	This directory contains my powerpoint for jury to validated my project</li>
-<li>/Ressource/ :<br>
-	This directory contains ressources to helped or needed for the project</li>
-<li>/Solution/ :<br>
-	This directory contains the solution and the final test submitted to the jury to validate my project.</li>
-</ul>	
+# Project opendata Paris
+<p align="center">
+<img src="https://github.com/Seb-IX/Projet_2/blob/main/Solution/data/img/logoParisDataUpscale.png" style="width:600px;">
+</p>
+<br>
+This project aims to help the city of Paris to become a smart-city, by optimizing the rounds for the maintenance of the trees of the city.
 
-**By TUCCIO Sébastien**
+For this, the website <a href="https://opendata.paris.fr/pages/home/">opendata.paris.fr</a> provides data on the location and type of trees in the city.
+
+The goal is to realize a first statistical analysis of the trees of the city.
+
+> You will find the different statistical analysis of the city trees in the "/Solution/" folder.
